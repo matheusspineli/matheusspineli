@@ -72,8 +72,8 @@ status:   Always building something
 ### `> cat contribution_graph.svg`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusspineli/matheusspineli/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/matheusspineli/matheusspineli/output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusspineli/matheusspineli/output/pacman-contribution-graph-dark.svg">
+<img src="https://raw.githubusercontent.com/matheusspineli/matheusspineli/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
