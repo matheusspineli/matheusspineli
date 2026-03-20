@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" width="360" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathuesspineli&theme=transparent"/>
+<img align="right" width="360" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheusspineli&theme=transparent"/>
 
 ### `> whoami`
 
@@ -39,14 +39,14 @@ status:   Always building something
 ### `> git log --oneline`
 
 <div align="center">
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathuesspineli&theme=transparent"/>
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusspineli&theme=transparent"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathuesspineli&theme=transparent"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mathuesspineli&theme=transparent&hide_border=true&ring=30BF86&fire=30BF86&currStreakLabel=30BF86"/>
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusspineli&theme=transparent"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=matheusspineli&theme=transparent&hide_border=true&ring=30BF86&fire=30BF86&currStreakLabel=30BF86"/>
 </div>
 
 ---
@@ -72,8 +72,8 @@ status:   Always building something
 ### `> cat contribution_graph.svg`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathuesspineli/mathuesspineli/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/mathuesspineli/mathuesspineli/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusspineli/matheusspineli/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/matheusspineli/matheusspineli/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
